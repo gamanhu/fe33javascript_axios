@@ -167,3 +167,7 @@ function getLocalStorage(){
         return JSON.parse(localStorage.getItem("DSND"));
     }
 }
+
+function themNguoiDungTest(){
+    console.log("Them nguoi dung lan 2");
+}
