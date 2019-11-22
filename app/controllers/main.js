@@ -169,5 +169,5 @@ function getLocalStorage(){
 }
 
 function themNguoiDungTest(){
-    console.log("Them nguoi dung lan 2");
+    console.log("Them nguoi dung");
 }
